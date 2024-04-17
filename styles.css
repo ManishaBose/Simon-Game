@@ -3,6 +3,9 @@ body {
   background-color: #86469c;
 }
 
+footer {
+  font-size: larger;
+}
 #level-title {
   font-family: "Press Start 2P", cursive;
   font-size: 3rem;

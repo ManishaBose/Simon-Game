@@ -69,3 +69,7 @@ function startOver() {
   gamePattern = [];
   started = false;
 }
+
+const date = new Date();
+const year = date.getFullYear();
+$("footer").text(`© ${year} Manisha Bose`);
