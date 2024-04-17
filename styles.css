@@ -6,6 +6,11 @@ body {
 footer {
   font-size: larger;
 }
+
+h1 {
+  cursor: pointer;
+}
+
 #level-title {
   font-family: "Press Start 2P", cursive;
   font-size: 3rem;
