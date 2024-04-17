@@ -22,4 +22,4 @@ Since the game is hosted on Cloudflare, no installation is necessary. Simply nav
 
 ## Play live game
 
-[Play live game here](www.)
+[Play live game here](https://simon-game-64r.pages.dev/)
